@@ -1,0 +1,24 @@
+.user-card{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.c1{
+    display: flex;
+    flex-direction: column;
+    margin: 0px 20px;
+}
+
+.pf1{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+
+}
+
+.c2{
+    margin: 5%;
+    /* border: 1px solid black; */
+    box-shadow: 10px 5px 10px rgb(166, 166, 166);
+}
